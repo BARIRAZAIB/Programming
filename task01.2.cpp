@@ -8,6 +8,7 @@ private:
 	int front;
 	int rear;
 public:
+	//comment this
 	Queue(int size)
 	{
 		array = new int[size];
